@@ -1,0 +1,16 @@
+D:\QLHD\QLHD\bin\Debug\net5.0\QLHD.exe
+D:\QLHD\QLHD\bin\Debug\net5.0\QLHD.deps.json
+D:\QLHD\QLHD\bin\Debug\net5.0\QLHD.runtimeconfig.json
+D:\QLHD\QLHD\bin\Debug\net5.0\QLHD.runtimeconfig.dev.json
+D:\QLHD\QLHD\bin\Debug\net5.0\QLHD.dll
+D:\QLHD\QLHD\bin\Debug\net5.0\QLHD.pdb
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.csproj.AssemblyReference.cache
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.AssemblyInfoInputs.cache
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.AssemblyInfo.cs
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.csproj.CoreCompileInputs.cache
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.dll
+D:\QLHD\QLHD\obj\Debug\net5.0\refint\QLHD.dll
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.pdb
+D:\QLHD\QLHD\obj\Debug\net5.0\QLHD.genruntimeconfig.cache
+D:\QLHD\QLHD\obj\Debug\net5.0\ref\QLHD.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oS7aqrCPOBzRT0rWj6kDoakTuFo8IqiUTy235oieNnylXrmL6+hob7MDFBkHcFX0N7GV7JeNLcVXdQj7fwbnJQ==",
+  "success": true,
+  "projectFilePath": "D:\\QLHD\\QLHD\\QLHD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
